@@ -7,10 +7,13 @@ Create Leaflet maps with a linked Google Sheets template.
 - host your live web map and polygon data with GitHub Pages
 - responsive web design for both small and large devices
 - built entirely with open-source code, and no usage limits
+- This is the forked version published by me - Yuval Shafriri
 
 ## Demo
-- Leaflet Map https://jackdougherty.github.io/leaflet-maps-with-google-sheets/index.html
-- Google Sheet template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
+- My Leaflet Map https://yuvalshafriri.github.io/leaflet-maps-with-google-sheets/
+- Original Leaflet Map https://jackdougherty.github.io/leaflet-maps-with-google-sheets/index.html
+- MטGoogle Sheet template https://docs.google.com/spreadsheets/d/1Rutqxst05F6goJQ3Z5uh7QHSrea0Nz9B9j_mcnXObzI/pubhtml
+- Original Google Sheet template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
 
 ## BETA version
 - Report bugs and suggest features in [Issues](https://github.com/JackDougherty/leaflet-maps-with-google-sheets/issues)
